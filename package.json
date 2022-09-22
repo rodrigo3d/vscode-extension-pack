@@ -1,0 +1,52 @@
+{
+  "name": "vscode-extension-pack",
+  "displayName": "Visual Studio Code Extension Pack",
+  "description": "A collection of extension that we use at Visual Studio Code.",
+  "version": "1.0.0",
+  "publisher": "rodrigo3d",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#030518",
+    "theme": "dark"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "next",
+    "styled-components",
+    "graphql",
+    "apollo"
+  ],
+  "repository": {
+    "url": "https://github.com/rodrigo3d/vscode-extension-pack"
+  },
+  "homepage": "https://github.com/rodrigo3d/vscode-extension-pack",
+  "bugs": {
+    "url": "https://github.com/rodrigo3d/vscode-extension-pack/issues"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "mrmlnc.vscode-duplicate",
+    "patbenatar.advanced-new-file",
+    "waderyan.gitblame",
+    "ms-vsliveshare.vsliveshare",
+    "apollographql.vscode-apollo",
+    "jpoissonnier.vscode-styled-components",
+    "xabikos.javascriptsnippets",
+    "andys8.jest-snippets",
+    "skyran.js-jsx-snippets",
+    "pulkitgangwar.nextjs-snippets",
+    "zhuangtongfa.material-theme",
+    "ms-vscode.vscode-typescript-next",
+    "VisualStudioExptTeam.vscodeintellicode"
+  ]
+}
